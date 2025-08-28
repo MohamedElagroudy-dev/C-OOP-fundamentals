@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677441166 source:c:\users\top\documents\oop-file_input_output_2\main.cpp
+	<iostream>
+	<fstream>
+
+1677444766 source:d:\c++ - oop\oop-file_input_output_2\main.cpp
+	<iostream>
+	<fstream>
+

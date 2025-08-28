@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677443438 source:c:\users\top\documents\oop_file_input_output_ride&read\main.cpp
+	<iostream>
+	<fstream>
+
+1685365343 source:d:\c++ - oop\oop_file_input_output_ride&read\main.cpp
+	<iostream>
+	<fstream>
+
